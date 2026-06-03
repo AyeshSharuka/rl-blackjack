@@ -1,6 +1,6 @@
-# Blackjack RL Agent — Q-Learning vs Monte Carlo
+# Blackjack RL Agent - Q-Learning vs Monte Carlo
 
-> MSc Artificial Intelligence — Reinforcement Learning (B9AI105 · CA1) | Dublin Business School
+> MSc Artificial Intelligence - Reinforcement Learning (B9AI105 · CA1) | Dublin Business School
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-2.0-blue?style=flat&logo=numpy&logoColor=white)
@@ -113,12 +113,12 @@ Both agents evaluated for **50,000 games** using a **greedy policy** (no explora
 
 ## How to Run
 
-### Option 1 — Google Colab (Recommended)
+### Option 1 - Google Colab (Recommended)
 1. Open `rl_blackjack.py` in Colab (or the `.ipynb` version)
 2. Click **Runtime → Run all**
 3. Training takes ~5–10 minutes; `experiment_logs.zip` downloads automatically
 
-### Option 2 — Local
+### Option 2 - Local
 ```bash
 # Clone the repo
 git clone https://github.com/AyeshSharuka/rl-blackjack.git
@@ -160,11 +160,5 @@ pandas>=2.2
 
 No RL libraries used - environment and agents are built entirely from scratch.
 
----
 
----
-
-## 📄 License
-
-Submitted for academic assessment at Dublin Business School. All rights reserved © Ayesh Sharuka 2025
 
